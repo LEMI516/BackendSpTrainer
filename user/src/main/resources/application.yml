@@ -1,0 +1,27 @@
+server:
+  port: 9002
+spring:
+  application:
+    name: user-service
+  ## MySQL
+  datasource:
+    url: jdbc:mysql://localhost:3305/sptrainerp
+    username: root
+    password: hardtech01
+    driverClassName: com.mysql.jdbc.Driver
+    hikari:
+      connectionTimeout: 20000
+      maximumPoolSize: 20
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: ${EUREKA_URI:http://localhost:8761/eureka}
+  instance:
+    preferIpAddress: true
+jwt:
+  route:
+    authentication:
+      path: /auth
+  header: Authorization
+  expiration: 604800
+  secret: sptrainer.com.tribute.uan

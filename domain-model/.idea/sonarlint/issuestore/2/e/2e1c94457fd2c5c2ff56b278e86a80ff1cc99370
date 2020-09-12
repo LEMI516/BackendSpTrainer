@@ -1,0 +1,39 @@
+
+U
+java:S1118
+":Add a private constructor to hide the implicit public one.(†µ»¥ûÿÿÿÿ
+e
+java:S1192!"JDefine a constant instead of duplicating this literal "date_save" 4 times.(‹¢Åõÿÿÿÿÿ
+|
+java:S4165Ï"`Remove this useless assignment; "ps" already holds the assigned value along all execution paths.(ŸÓ°Ôşÿÿÿÿ
+]
+java:S1192B"GDefine a constant instead of duplicating this literal "iduser" 6 times.(õšÏÜ
+?
+java:S1643Š"Use a StringBuilder instead.(ŸÙ–ıÿÿÿÿ8İ´Ç–.
+p	java:S100ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÄÀ°ıÿÿÿÿ8İ´Ç–.
+a
+java:S1192 "KDefine a constant instead of duplicating this literal "coordinate" 3 times.(æ‡ü
+v
+java:S4165Í"`Remove this useless assignment; "ps" already holds the assigned value along all execution paths.(«ÈÎw
+n
+java:S1301í"KReplace this "switch" statement by "if" statements to increase readability.(Ğ ôıÿÿÿÿ8İ´Ç–.
+:
+java:S1643ş"Use a StringBuilder instead.(Ä‰Îé8İ´Ç–.
+p	java:S100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¨Õ¨ÿÿÿÿÿ8İ´Ç–.
+D	java:S131í""Add a default case to this switch.(Ğ ôıÿÿÿÿ8İ´Ç–.
+|
+java:S4165Î"`Remove this useless assignment; "ps" already holds the assigned value along all execution paths.(€Ûßôşÿÿÿÿ
+b
+java:S1192D"LDefine a constant instead of duplicating this literal "description" 3 times.(ÌÍÛ§
+g
+java:S1192""LDefine a constant instead of duplicating this literal "date_update" 3 times.(Ú¸’§ùÿÿÿÿ
+|
+java:S4165Ò"`Remove this useless assignment; "ps" already holds the assigned value along all execution paths.(«µ°şÿÿÿÿ
+|
+java:S4165Ó"`Remove this useless assignment; "ps" already holds the assigned value along all execution paths.(ïîÑûÿÿÿÿ
+}
+java:S4165Õ"`Remove this useless assignment; "ps" already holds the assigned value along all execution paths.(ŒĞ·)8×’É–.
+c
+java:S1192l"HDefine a constant instead of duplicating this literal "idgroup" 5 times.(·½œùùÿÿÿÿ
+[
+java:S1192G"FDefine a constant instead of duplicating this literal "state" 3 times.(Ğ—

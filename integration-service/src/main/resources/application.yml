@@ -1,0 +1,18 @@
+server:
+  port: 9003
+spring:
+  application:
+    name: apigateway-service
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: ${EUREKA_URI:http://localhost:8761/eureka}
+  instance:
+    preferIpAddress: true
+
+url:
+  endpoing:
+    base: http://
+    user: user
+    pass: pass

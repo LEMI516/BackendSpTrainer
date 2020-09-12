@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SPTRAINER/demo.iml" filepath="$PROJECT_DIR$/../SPTRAINER/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain-model.iml" filepath="$PROJECT_DIR$/domain-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../group-trainer-service/group-trainer-service.iml" filepath="$PROJECT_DIR$/../group-trainer-service/group-trainer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../integration-service/integration-service.iml" filepath="$PROJECT_DIR$/../integration-service/integration-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../notificacion/notificacion.iml" filepath="$PROJECT_DIR$/../notificacion/notificacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../user/user.iml" filepath="$PROJECT_DIR$/../user/user.iml" />
+    </modules>
+  </component>
+</project>
